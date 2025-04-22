@@ -27,9 +27,10 @@ dependencies:
   meta: ^1.11.0
   flutter_webrtc:
   safe_device: ^1.1.6
-  git:
-    url: https://github.com/aristotel-afinscky/flutter-webrtc
-    ref: main
+  flutter-webrtc:
+    git:
+      url: https://github.com/aristotel-afinscky/flutter-webrtc
+      ref: main
 
 dev_dependencies:
   test: ^1.24.6
