@@ -25,7 +25,6 @@ dependencies:
   get_it: ^7.6.7
   collection: ^1.18.0
   meta: ^1.11.0
-  flutter_webrtc:
   safe_device: ^1.1.6
   flutter_webrtc:
     git:
